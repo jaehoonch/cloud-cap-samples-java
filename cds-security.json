@@ -1,5 +1,5 @@
 {
-	"xsappname": "bookshop-java-public",
+	"xsappname": "bookshop-java-btp",
 	"tenant-mode": "dedicated",
 	"scopes": [
 		{
